@@ -31,7 +31,7 @@ const Home = () => {
 <div className="card">
 
   <div className="view overlay">
-    <img className="card-img-top" src="/images/Bharat2.jpg"
+    <img className="card-img-top" src="https://github.com/Bharatdev1/bharat/blob/main/public/images/Bharat2.jpg?raw=true"
       alt="Card image cap"/>
     <a href="#!">
       <div className="mask rgba-white-slight"></div>
