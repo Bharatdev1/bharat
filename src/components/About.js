@@ -180,7 +180,7 @@ const AboutAndPortfolio = () => {
               <CardActionArea>
                 <CardMedia
                   className={classes.cardMedia}
-                  image="/images/sw.png"
+                  image="https://github.com/Bharatdev1/bharat/blob/main/public/images/sw.PNG?raw=true"
                   title="Project 1"
                 />
                 <CardContent>
@@ -207,7 +207,7 @@ const AboutAndPortfolio = () => {
               <CardActionArea>
                 <CardMedia
                   className={classes.cardMedia}
-                  image="/images/ww.png"
+                  image="https://github.com/Bharatdev1/bharat/blob/main/public/images/ww.PNG?raw=true"
                   title="Project 2"
                 />
                 <CardContent>
