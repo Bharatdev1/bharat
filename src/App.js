@@ -12,7 +12,7 @@ function App() {
     <Router>
       <div>
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-      <Link className="navbar-brand" to="/"><Avatar alt="Remy Sharp" src="/images/Bharat.PNG"  sx={{ width: 56, height: 56 }}/></Link>
+      <Link className="navbar-brand" to="/"><Avatar alt="Bharat" src="https://github.com/Bharatdev1/bharat/blob/main/public/images/Bharat.PNG?raw=true"  sx={{ width: 56, height: 56 }}/></Link>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
   </button>
