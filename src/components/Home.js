@@ -52,7 +52,7 @@ const Home = () => {
       <FontAwesomeIcon
         icon={faReact} // The specific Font Awesome icon
         className="fa-icon fa-5x" // You can use CSS classes for additional styling
-        style={{ color: '#0693fe' }} // Inline styling for color
+        style={{ color: '#0693fe'}} // Inline styling for color
         beat
       />
       </div>
@@ -64,7 +64,7 @@ const Home = () => {
       <FontAwesomeIcon
         icon={faNodeJs} // The specific Font Awesome icon
         className="fa-icon fa-5x" // You can use CSS classes for additional styling
-        style={{ color: '#44ff00' }} // Inline styling for color
+        style={{ color: '#44ff00'  }} // Inline styling for color
         beat
       />
       </div>
